@@ -1,6 +1,10 @@
 # SerNetCDF
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/SerNetCDF/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/SerNetCDF)
+
 ## Main features
-SerNetCDF is a NetCDF/HDF library for GeoSpark. It enables GeoSpark to process NetCDF/HDF data. However, any Hadoop MapReduce or Spark enthusiasts can take this library and process large scale NetCDF/HDF data (of course, it may take you some time).
+SerNetCDF is a NetCDF/HDF library for GeoSpark. It enables GeoSpark to load and process NetCDF/HDF data.
+
+However, any Hadoop MapReduce or Spark enthusiasts can take this library and process large scale NetCDF/HDF data (of course, it may take you some time to understand all the underlying stuff).
 
 SerNetCDF provides a serializable/deserializable interface for users to access HDF/NetCDF format data. It is a serializable wrapper for the original Unidata NetCDF-java library. 
 
@@ -16,6 +20,8 @@ SerNetCDF is a Java Rewrite of SciSpark NetCDFUtils. But SerNetCDF provides some
 
 ## Contact
 Jia Yu (jiayu2 at asu dot edu)
+
+Mohamed Sarwat (msarwat at asu dot edu)
 
 ## License
 
