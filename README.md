@@ -1,5 +1,5 @@
 # SerNetCDF
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/SerNetCDF/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/SerNetCDF)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/sernetcdf/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.datasyslab/sernetcdf)
 
 ## Main features
 SerNetCDF is a NetCDF/HDF library for GeoSpark. It enables GeoSpark to load and process NetCDF/HDF data.
